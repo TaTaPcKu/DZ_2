@@ -464,8 +464,8 @@ MonoBehaviour:
   CubePrefab: {fileID: 944594510703268638, guid: 7d3639b2aa5f0a84ea651604dee0baed, type: 3}
   radius: 20
   angularSpeedInDegree: 30
-  cubeCount: 16
   isClockwise: 1
+  cubeCount: 8
 --- !u!4 &885102406
 Transform:
   m_ObjectHideFlags: 0
